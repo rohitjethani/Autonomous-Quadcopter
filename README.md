@@ -29,7 +29,7 @@ We also conducted a light show in Srishti 2018, the Annual Techno-Hobby Exhibiti
 	1. Buzzer
 	1. GPS
 	1. PPM Encoder
-	1. Shock Absorber Kit\
+	1. Shock Absorber Kit
 	1. Micro SD Card
 1. 433MHz Telemetry Kit
 1. LiPo Battery
